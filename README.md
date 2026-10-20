@@ -17,4 +17,4 @@ Bu çalışma bir ERP/CRM yazılımı geliştirme veya canlı kurumsal sistem ku
 - Özgün masaüstü Word dosyası değiştirilmedi ve kamuya açık pakete dahil edilmedi.
 - Ödev yönergesi bu pakete dahil değildir.
 
-GitHub’a yüklerken bu klasörün içindeki README, PDF ve DOCX kullanılabilir. Yeni bir depoda örneğin `erp-crm-inceleme-raporu` adı uygundur. Henüz GitHub’a yükleme yapılmadı.
+Rapor GitHub’da paylaşılmıştır. Depodaki PDF okunabilir sürüm, DOCX düzenlenebilir sürümdür. `erp-crm-raporu-v1.0.0.zip` dosyası raporu ve açıklamaları birlikte indirmenizi sağlar. Paylaşılan dosyalar yükleme sonrasında özgün paylaşım paketiyle karşılaştırılarak doğrulanmıştır.
