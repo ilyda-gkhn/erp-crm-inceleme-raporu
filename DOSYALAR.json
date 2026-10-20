@@ -1,0 +1,17 @@
+[
+  {
+    "dosya": "README.md",
+    "sha256": "a373b54b764559e3dbf0677dbbc77b4e448ce9eb3f622d4255ad51f10e0ff11f",
+    "bayt": 1728
+  },
+  {
+    "dosya": "sap-erp-salesforce-crm-raporu.pdf",
+    "sha256": "9fc989aeaff45a403a6b081617480f3188cc86b3a80c0075f0dfbca2dcf7ff10",
+    "bayt": 1697760
+  },
+  {
+    "dosya": "sap-erp-salesforce-crm-raporu.docx",
+    "sha256": "7bcdcb6baa3c4009b7adfc79e682b27095ef262d6d288ab5b9b51801630c83e8",
+    "bayt": 2901212
+  }
+]
